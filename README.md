@@ -17,7 +17,6 @@ This project demonstrates a robust .NET 5+ class library for interacting with th
 1. Clone the repo
 2. Open the solution
 3. Run `dotnet test` to run unit tests
-4. Run `ReqresApi.Demo` to see usage example
 
 ## 🧪 Test Coverage
 
