@@ -9,6 +9,8 @@ This project demonstrates a robust .NET 5+ class library for interacting with th
 - Uses `HttpClientFactory`
 - Fully async
 - Ready for DI in a real-world app
+- Cache responses in-memory for repeated calls
+- Exception Handling with Logerror
 
 ## 🚀 How to Run
 
@@ -22,7 +24,3 @@ This project demonstrates a robust .NET 5+ class library for interacting with th
 - `ExternalUserServiceTests` covers typical scenarios using mocking
 - Extend to test network failures or add retry logic with Polly
 
-## 💡 Improvements
-
-- Add Polly for retry/resilience
-- Cache responses in-memory for repeated calls
